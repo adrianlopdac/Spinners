@@ -15,20 +15,20 @@
     <color name="beige">#ffffeed3</color>
     <color name="granate">#ff800000</color>
 
-    <string-array name="colors">
-        <item>rojo</item>
-        <item>lima</item>
-        <item>rosa</item>
-        <item>celeste</item>
-        <item>blanco</item>
-        <item>gris</item>
-        <item>amarillo</item>
-        <item>naranja</item>
-        <item>marron</item>
-        <item>azul</item>
-        <item>verde</item>
-        <item>violeta</item>
-        <item>beige</item>
-        <item>granate</item>
-    </string-array>
+    <array name="colors">
+        <item>@color/rojo</item>
+        <item>@color/lima</item>
+        <item>@color/rosa</item>
+        <item>@color/celeste</item>
+        <item>@color/blanco</item>
+        <item>@color/gris</item>
+        <item>@color/amarillo</item>
+        <item>@color/naranja</item>
+        <item>@color/marron</item>
+        <item>@color/azul</item>
+        <item>@color/verde</item>
+        <item>@color/violeta</item>
+        <item>@color/beige</item>
+        <item>@color/granate</item>
+    </array>
 </resources>
