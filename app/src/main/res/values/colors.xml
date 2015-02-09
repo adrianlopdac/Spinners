@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rojo">#FF0000</color>
+    <color name="lima">#ff09ff04</color>
+    <color name="rosa">#ffff4ee3</color>
+    <color name="celeste">#ff0deeff</color>
+    <color name="blanco">#fffbf9ff</color>
+    <color name="gris">#ffd1d1d1</color>
+    <color name="amarillo">#fffaff06</color>
+    <color name="naranja">#ffff8000</color>
+    <color name="marron">#ffa05000</color>
+    <color name="azul">#ff0000ff</color>
+    <color name="verde">#ff00b106</color>
+    <color name="violeta">#ffa731ff</color>
+    <color name="beige">#ffffeed3</color>
+    <color name="granate">#ff800000</color>
+
+    <string-array name="colors">
+        <item>rojo</item>
+        <item>lima</item>
+        <item>rosa</item>
+        <item>celeste</item>
+        <item>blanco</item>
+        <item>gris</item>
+        <item>amarillo</item>
+        <item>naranja</item>
+        <item>marron</item>
+        <item>azul</item>
+        <item>verde</item>
+        <item>violeta</item>
+        <item>beige</item>
+        <item>granate</item>
+    </string-array>
+</resources>
